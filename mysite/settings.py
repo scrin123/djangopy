@@ -25,7 +25,9 @@ SECRET_KEY = 'sr6ao_wdq#5ol(tg5()5uup0_5f+e@d!cvp0y2ayp8!bdn9d7@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'hatsunami.pythonanywhere.com',
+]
 
 
 # Application definition
